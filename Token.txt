@@ -1,0 +1,13 @@
+< "i_" , IDENTIFIER >
+< "=" , OPERATOR >
+< "0" , NUMBER >
+< "=" , OPERATOR >
+< "+" , OPERATOR >
+< "for" , KEYWORD >
+< "(" , PUNCTUATION >
+< ")" , PUNCTUATION >
+< "{" , PUNCTUATION >
+< "=>" , OPERATOR >
+< "1.234E-1" , NUMBER >
+< ".23" , NUMBER >
+< "}" , PUNCTUATION >

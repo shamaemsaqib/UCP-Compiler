@@ -1,0 +1,6 @@
+Error at Line 2 Column 1: "a" Illegal Identifier. Identifier must contain a '_'
+Error at Line 2 Column 3: "b" Illegal Identifier. Identifier must contain a '_'
+Error at Line 2 Column 5: "c" Illegal Identifier. Identifier must contain a '_'
+Error at Line 3 Column 13: "statement" Illegal Identifier. Identifier must contain a '_'
+Error at Line 5 Column 1: "a" Illegal Identifier. Identifier must contain a '_'
+Error at Line 5 Column 4: "b" Illegal Identifier. Identifier must contain a '_'

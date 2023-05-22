@@ -1,0 +1,7 @@
+i_ = 0
+a=b+ c
+for( statement)
+{
+a=>b
+1.234 E-1.23
+}
